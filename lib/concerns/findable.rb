@@ -1,5 +1,3 @@
-require 'pry'
-
 module Findable
   module ClassMethods
 
